@@ -11,5 +11,5 @@ npm start
 ```
 ### Technical Stack:
 
-React JS
+React JS and 
 react-facebook-login (dependency)
